@@ -6,7 +6,7 @@
 /* This program will simulate the kids card game 'War'. In this variation of War,
 a deck is split equally or 26 cards for each player. Cards are based solely off of their 
 rank. When a war occurs, the top card of the deck is flipped face down and the winner of the war
-is whom has the higher ranked next card of the deck.       */
+is whom has the higher ranked next card of the deck.        */
 
 
 import java.util.*;
