@@ -54,7 +54,7 @@ public class WarGUI extends JFrame //Extend JFrame for its method convenience
   private int compare; //Integer for holding the value of the compareTo card method
  
  
-  //Set the resolution of the window
+  //Set the resolution of the window 
   private final int WINDOW_WIDTH = 1500; 
   private final int WINDOW_HEIGHT = 800;
   
@@ -135,7 +135,7 @@ public class WarGUI extends JFrame //Extend JFrame for its method convenience
          
          
          
-         //Commentinggggg
+         
        
          
          
@@ -143,7 +143,7 @@ public class WarGUI extends JFrame //Extend JFrame for its method convenience
           add(panel1,BorderLayout.NORTH);//Add panel 1  to the North end of the BorderLayout 
           add(panel2,BorderLayout.WEST);//Add panel 2  to the West end of the BorderLayout 
           add(panel3,BorderLayout.EAST);//Add panel 3  to the East end of the BorderLayout
-          add(panel4,BorderLayout.CENTER);//Add panel 4  to the West end of the BorderLayout
+          add(panel4,BorderLayout.SOUTH);//Add panel 4  to the West end of the BorderLayout
           
           
           setVisible(true); //Make this BorderLayout visible
